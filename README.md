@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on Next.js and Full-Stack Development. I graduated from the University of Texas boot camp in 2022 where I acquired a solid foundation in web development and honed my skills in various technologies and frameworks.
 
-* 🌍  I'm based in Las Vegas.
+* 🌍  I'm based in Las Vegas, NV.
 * 🖥️  See my portfolio at [https://tyestanley.com](http://tyestanley.com)
 * ✉️  You can contact me at [tyestanley090@gmail.com](mailto:tyestanley090@gmail.com)
 * 🚀  I'm currently working on [car-showcase](http://github.com/TyeStanley/car-showcase)
