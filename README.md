@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
 * 🌍  I'm based in Las Vegas, NV.
 * 🖥️  See my portfolio at [https://tyestanley.com](http://tyestanley.com)
 * ✉️  You can contact me at [tyestanley090@gmail.com](mailto:tyestanley090@gmail.com)
-* 🚀  I'm currently working on [filmpire](https://github.com/TyeStanley/filmpire)
+* 🚀  I'm currently working on a Job Searching website with a team of 3 others!
 * 🧠  I'm learning to perfect my skills with NextJS!
 * 🤝  I'm open to collaborating on any related NextJS projects!
-* ⚡  I'm secretly a super hacker pretending to be a simple developer! shhhhh~
 
 ### Skills
 
