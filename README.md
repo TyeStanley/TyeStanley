@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
 
 * 🌍  I'm based in Las Vegas, NV.
 * 🖥️  See my portfolio at [https://tyestanley.com](http://tyestanley.com)
-* ✉️  You can contact me at [tyestanley090@gmail.com](mailto:tyestanley090@gmail.com)
+* ✉️  You can contact me at [tyestanley090@gmail.com](mailto:contact@tyestanley.com)
 * 🚀  I'm currently working on a Car Renting website with a team of 1 other developer!
 * 🧠  I'm learning to perfect my skills with NextJS!
 * 🤝  I'm open to collaborating on any related NextJS projects!
