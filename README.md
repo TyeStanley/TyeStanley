@@ -1,51 +1,37 @@
-Hi 👋 My name is Tye Stanley
-============================
+[![Tye Stanley](https://cdn.discordapp.com/attachments/571883066017185802/1165432481487536192/Black_Elegant_Personal_LinkedIn_Banner.png?ex=6546d494&is=65345f94&hm=78af0fc9a5c67a2993a939d64caf01a8b096fa00437b6881cbefe0740dc50121&)](https://tyestanley.com)
 
-Full Stack Web Developer
-------------------------
+# Hi, I'm Tye Stanley! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on Next.js and Full-Stack Development. I graduated from the University of Texas boot camp in 2022 where I acquired a solid foundation in web development and honed my skills in various technologies and frameworks.
+🔭 I’m currently working as **Full Stack Developer TA @EdX**
 
-* 🌍  I'm based in Las Vegas, NV.
-* 🖥️  See my portfolio at [https://tyestanley.com](http://tyestanley.com)
-* ✉️  You can contact me at [tyestanley090@gmail.com](mailto:contact@tyestanley.com)
-* 🚀  I'm currently working on a Car Renting website with a team of 1 other developer!
-* 🧠  I'm learning to perfect my skills with NextJS!
-* 🤝  I'm open to collaborating on any related NextJS projects!
+🌱 I’m currently learning **Next.js - Backend**
 
-### Skills
+👯 I’m looking to collaborate on open source/commercial projects
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+🤔 I’m looking for Next.js/React.js opportunities
 
-### Socials
+💬 Ask me about **Web Development**
 
-<p align="left"> <a href="https://www.github.com/TyeStanley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tye-stanley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)**, **[Twitter](https://twitter.com/tye_stanley)**
 
-### Badges
+## My Skills - Technologies I use
 
-<b>My GitHub Stats</b>
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,heroku,mysql,bootstrap,vscode,bash,figma,threejs,graphql,jest)
 
-<a href="http://www.github.com/TyeStanley"><img src="https://github-readme-stats.vercel.app/api?username=TyeStanley&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TyeStanley's GitHub stats" /></a>
+## 🏆 Github Status
 
-<a href="http://www.github.com/TyeStanley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TyeStanley&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img  src="https://github-stats-lemon.vercel.app/api?username=tyestanley&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tyestanley&theme=tokyonight" width="48%" >
 
-<a href="https://github.com/TyeStanley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyeStanley&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌟 Most Used Weapons
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tyestanley&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=tyestanley&theme=react-dark)
+
+## Connect with me:
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tye-stanley/)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/its.tye)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tye_stanley)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tstanley090)
