@@ -12,7 +12,7 @@
 
 💬 Ask me about **Web Development**
 
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)**, **[Twitter](https://twitter.com/tye_stanley)**
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)**, **[Twitter](https://twitter.com/tye_stanley)**, **[Portfolio](https://tyestanley.com)**
 
 ## My Skills - Technologies I use
 
