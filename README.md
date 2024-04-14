@@ -1,4 +1,4 @@
-[![Tye Stanley](https://cdn.discordapp.com/attachments/571883066017185802/1165432481487536192/Black_Elegant_Personal_LinkedIn_Banner.png?ex=6546d494&is=65345f94&hm=78af0fc9a5c67a2993a939d64caf01a8b096fa00437b6881cbefe0740dc50121&)](https://tyestanley.com)
+[![Tye Stanley](https://utfs.io/f/b7769411-85b7-47a8-892b-5d6e5f4488e1-9cgjtd.png)](https://tyestanley.com)
 
 # Hi, I'm Tye Stanley! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
