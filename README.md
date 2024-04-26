@@ -4,9 +4,9 @@
 
 🔭 I’m currently working as **Full Stack Developer TA @EdX**
 
-🌱 I’m currently learning **Vim**
+🌱 I’m currently learning **Java**
 
-👯 I’m looking to collaborate on open source/commercial projects
+👯 I’m looking to collaborate on open-source/commercial projects
 
 🤔 I’m looking for Next.js/React.js opportunities
 
