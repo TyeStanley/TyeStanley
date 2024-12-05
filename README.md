@@ -17,7 +17,9 @@
 ## My Skills - Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel)
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,heroku,mysql,bootstrap,vscode,bash,figma,threejs,graphql,jest)
+
 ![My Skills](https://skillicons.dev/icons?i=java,cpp)
 
 ## 🏆 Github Status
@@ -28,7 +30,6 @@
 ## 🌟 Most Used Weapons
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tyestanley&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=tyestanley&theme=react-dark)
 
 ## Connect with me:
 
