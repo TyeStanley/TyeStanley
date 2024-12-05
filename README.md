@@ -1,10 +1,10 @@
 [![Tye Stanley](https://utfs.io/f/b7769411-85b7-47a8-892b-5d6e5f4488e1-9cgjtd.png)](https://tyestanley.com)
 
-# Hi, I'm Tye Stanley! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hi, I'm Tye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently working as **Full Stack Developer TA @EdX**
 
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning C++
 
 👯 I’m looking to collaborate on open-source/commercial projects
 
