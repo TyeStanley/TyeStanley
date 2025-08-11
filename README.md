@@ -2,15 +2,15 @@
 
 # Hi, I'm Tye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Full Stack Developer TA @EdX**
+🔭 I’m currently working on a special project. It's a secret.
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning C++ & Rust (I need both apparently)
 
 👯 I’m looking to collaborate on open-source/commercial projects
 
 🤔 I’m looking for Next.js/React.js opportunities
 
-💬 Ask me about **Web Development**
+💬 Ask me about **Web Development** or **Game Modding**
 
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)**, **[Twitter](https://twitter.com/tye_stanley)**, **[Portfolio](https://tyestanley.com/contact)**
 
