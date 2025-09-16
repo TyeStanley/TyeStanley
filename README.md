@@ -14,7 +14,7 @@
 ### 🔭 What I'm Working On
 
 - Building modern, responsive web applications with React 19 & Next.js 15
-- Learning **C++ & Rust** to expand my systems programming skills
+- Learning **C++ & Rust** to expand my programming skills
 - Exploring advanced TypeScript patterns and performance optimization
 
 ### 💬 Ask me about
