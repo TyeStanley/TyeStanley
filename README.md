@@ -1,39 +1,97 @@
-[![Tye Stanley](https://utfs.io/f/b7769411-85b7-47a8-892b-5d6e5f4488e1-9cgjtd.png)](https://tyestanley.com)
+# Hi, I'm Tye Stanley! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-# Hi, I'm Tye! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+## 🚀 Software Developer & UT University Graduate
 
-🔭 I’m currently working on a special project. It's a secret.
+**Software Developer** specializing in modern web technologies with a passion for creating engaging, accessible user experiences. Former **Teaching Assistant at edX** coding bootcamp, where I mentored students in web development fundamentals.
 
-🌱 I’m currently learning C++ & Rust (I need both apparently)
+### 🎯 Currently Seeking
 
-👯 I’m looking to collaborate on open-source/commercial projects
+- **Frontend Developer** positions (React.js/Next.js focus)
+- **Full-Stack Developer** opportunities
+- **Software Developer** roles
+- **Open-source collaboration** and **commercial projects**
 
-🤔 I’m looking for Next.js/React.js opportunities
+### 🔭 What I'm Working On
 
-💬 Ask me about **Web Development** or **Game Modding**
+- Building modern, responsive web applications with React 19 & Next.js 15
+- Learning **C++ & Rust** to expand my systems programming skills
+- Exploring advanced TypeScript patterns and performance optimization
 
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)**, **[Twitter](https://twitter.com/tye_stanley)**, **[Portfolio](https://tyestanley.com/contact)**
+### 💬 Ask me about
 
-## My Skills - Technologies I use
+- **Web Development** (React, Next.js, TypeScript)
+- **Game Modding** and reverse engineering
+- **UI/UX Design** and modern development practices
+- **Full-stack architecture** and API development
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel)
+### 📫 Let's Connect
 
-![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,heroku,mysql,bootstrap,vscode,bash,figma,threejs,graphql,jest)
+**[Portfolio](https://tyestanley.com/)** | **[LinkedIn](https://www.linkedin.com/in/tye-stanley/)** | **[GitHub](https://github.com/TyeStanley)**
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp)
+## 💼 Professional Experience
+
+### 🎯 Core Competencies
+
+- **Frontend Development**: React 19, Next.js 15, TypeScript, Tailwind CSS
+- **Backend Development**: Node.js, Express.js, .NET, API development
+- **Database Management**: PostgreSQL, MySQL, MongoDB, Supabase
+- **UI/UX Design**: Responsive design, accessibility, modern web practices
+- **Performance Optimization**: Code splitting, lazy loading, SEO optimization
+
+### 🛠 Technical Skills
+
+### Frontend Technologies
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,html,css,sass,bootstrap,figma)
+
+### Backend & Database
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,mysql,supabase,graphql,heroku,vercel)
+
+### Development Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,jest)
+
+### Additional Languages
+
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs)
+
+## 🚀 Featured Projects
+
+### 🌐 [Portfolio Website](https://tyestanley.com/)
+
+- **Modern React Portfolio** built with Next.js 15, TypeScript, and Framer Motion
+- **Responsive Design** with mobile-first approach and accessibility features
+- **Performance Optimized** with image optimization, code splitting, and SEO
+- **Interactive Elements** including project modals and smooth animations
+
+### 🎯 Key Achievements
+
+- **Teaching Experience**: Former Teaching Assistant at edX coding bootcamp, mentored students in web development
+- **Type Safety**: Full TypeScript implementation across all projects
+- **Modern React Patterns**: Hooks, context, and custom hooks for state management
+- **Clean Architecture**: Well-organized component structure and separation of concerns
+- **Performance Focus**: Optimized bundles, lazy loading, and efficient rendering
 
 ## 🏆 Github Status
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=tyestanley&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tyestanley&theme=tokyonight" width="48%" >
 
-## 🌟 Most Used Weapons
+## 🤝 Let's Work Together
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tyestanley&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+I'm actively seeking new opportunities and excited to contribute to innovative projects. Whether you're looking for a **Frontend Developer**, **Full-Stack Developer**, or someone to collaborate on **open-source projects**, I'd love to hear from you!
 
-## Connect with me:
+### 📞 Get in Touch
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tye-stanley/)
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/its.tye)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tye_stanley)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/tstanley090)
+
+### 💼 Professional Links
+
+- **Portfolio**: [tyestanley.com](https://tyestanley.com/)
+- **Resume**: Available upon request
+- **Email**: Contact through [portfolio form](https://tyestanley.com/contact)
+
+---
+
+⭐ **Open to opportunities** | 🚀 **Ready to contribute** | 💡 **Always learning**
